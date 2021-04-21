@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+
+    body {
+        font-family: Lora, serif;
+        font-size: 10pt;
+        color: #555555;
+    }
+    h2 {
+        margin: 0;
+        padding: 0 0 10px 0;
+    }
+    #tartalom {
+        width: 90%;
+        margin: 0 auto;
+    }
+    #sztori {
+        width: 300px;
+        float: left;
+    }
+    #elkeszites {
+        width: 380px;
+        float: right;
+    }
+    img {
+        float: left;
+        margin-right: 40px;
+    }
+    #fejlec {
+    background-image: url('../pics/fejlec.jpg');
+    width: 100%;
+	height: 305px;
+}
